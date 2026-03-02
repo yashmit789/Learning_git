@@ -1,1 +1,3 @@
-const hello="hello world";
+function first() {
+    console.log("This is the first function.");
+}
