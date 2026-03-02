@@ -6,5 +6,8 @@ function myname(){
 function myage(){
     console.log("My age is "+age);
 }
+function hello(){
+    console.log("Hello World");
+}   
 myname();
 myage();
