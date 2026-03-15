@@ -4,4 +4,9 @@ function first() {
 function second() {
     console.log("This is the second function.");
 }
-hvy
+const name = "Alice";
+const age = 25;
+function greet(name, age) {
+    console.log("Hello, my name is " + name + " and I am " + age + " years old.");
+}
+greet(name, age);
